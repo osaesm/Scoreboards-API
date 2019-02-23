@@ -1,2 +1,5 @@
 Pipfile
 Pipfile.lock
+
+geckodriver
+geckodriver.log
