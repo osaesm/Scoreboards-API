@@ -1,5 +1,10 @@
+# Pipenv files
 Pipfile
 Pipfile.lock
 
+# Scraping files
 geckodriver
 geckodriver.log
+
+# VScode settings folder
+.vscode
